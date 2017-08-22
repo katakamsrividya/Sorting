@@ -3,6 +3,7 @@ public class Bubblesort {
 
 	public static void main(String[] args) {
 		
+		
 		    int n, c, d, swap;
 		    Scanner in = new Scanner(System.in);
 		 
