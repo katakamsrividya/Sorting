@@ -8,6 +8,7 @@ public class Bubblesort {
 		    int n, c, d, swap;
 		    Scanner in = new Scanner(System.in);
 		 
+		   
 		    System.out.println("Input number of integers to sort");
 		    n = in.nextInt();
 		 
