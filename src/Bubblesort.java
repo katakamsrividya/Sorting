@@ -34,7 +34,7 @@ public class Bubblesort {
 		  }
 		
 		// TODO Auto-generated method stub
-
+		    in.close();
 	}
 
 }
